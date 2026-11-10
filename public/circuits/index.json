@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Austin",
+    "slug": "austin",
+    "points": 1102
+  },
+  {
+    "name": "BrandsHatch",
+    "slug": "brandshatch",
+    "points": 781
+  },
+  {
+    "name": "Budapest",
+    "slug": "budapest",
+    "points": 876
+  },
+  {
+    "name": "Catalunya",
+    "slug": "catalunya",
+    "points": 931
+  },
+  {
+    "name": "Hockenheim",
+    "slug": "hockenheim",
+    "points": 914
+  },
+  {
+    "name": "IMS",
+    "slug": "ims",
+    "points": 805
+  },
+  {
+    "name": "Melbourne",
+    "slug": "melbourne",
+    "points": 1060
+  },
+  {
+    "name": "MexicoCity",
+    "slug": "mexicocity",
+    "points": 860
+  },
+  {
+    "name": "Montreal",
+    "slug": "montreal",
+    "points": 872
+  },
+  {
+    "name": "Monza",
+    "slug": "monza",
+    "points": 1159
+  },
+  {
+    "name": "MoscowRaceway",
+    "slug": "moscowraceway",
+    "points": 813
+  },
+  {
+    "name": "Norisring",
+    "slug": "norisring",
+    "points": 460
+  },
+  {
+    "name": "Nuerburgring",
+    "slug": "nuerburgring",
+    "points": 1029
+  },
+  {
+    "name": "Oschersleben",
+    "slug": "oschersleben",
+    "points": 739
+  },
+  {
+    "name": "Sakhir",
+    "slug": "sakhir",
+    "points": 1082
+  },
+  {
+    "name": "SaoPaulo",
+    "slug": "saopaulo",
+    "points": 862
+  },
+  {
+    "name": "Sepang",
+    "slug": "sepang",
+    "points": 1108
+  },
+  {
+    "name": "Shanghai",
+    "slug": "shanghai",
+    "points": 1090
+  },
+  {
+    "name": "Silverstone",
+    "slug": "silverstone",
+    "points": 1178
+  },
+  {
+    "name": "Sochi",
+    "slug": "sochi",
+    "points": 1169
+  },
+  {
+    "name": "Spa",
+    "slug": "spa",
+    "points": 1401
+  },
+  {
+    "name": "Spielberg",
+    "slug": "spielberg",
+    "points": 864
+  },
+  {
+    "name": "Suzuka",
+    "slug": "suzuka",
+    "points": 1161
+  },
+  {
+    "name": "YasMarina",
+    "slug": "yasmarina",
+    "points": 1110
+  },
+  {
+    "name": "Zandvoort",
+    "slug": "zandvoort",
+    "points": 864
+  }
+]

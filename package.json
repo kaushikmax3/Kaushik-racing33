@@ -1,0 +1,17 @@
+{
+  "name": "kaushik-formula-gt-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A 3D browser Formula and GT racing prototype with car builders, cameras, HUD and multiplayer rooms.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:3100": "node -e \"process.env.PORT='3100'; require('./server.js')\"",
+    "import": "node tools/import-circuits.mjs",
+    "import:tracks": "node tools/import-circuits.mjs"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
